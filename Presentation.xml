@@ -9,9 +9,9 @@
   <Description>Every application needs to store and manage data. In this session, you will get a firsthand look at the complete set of scalable and highly available data services including Windows Azure Storage and SQL Databases. You’ll see how you can effectively use these services to build, migrate, and extend data-centric applications in the cloud while using familiar tools.</Description>
   <Document RemoveSpeakerNotes="true">.\DevCamps-Data.pptx</Document>
   <Title>Windows Azure Storage and Database</Title>
-  <Version>1.0.0</Version>
+  <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>
   <CustomProperties>
-     <Property Name="Filter" Value="DevCamps" />
+    <Property Name="Filter" Value="DevCamps" />
   </CustomProperties>
 </Presentation>
